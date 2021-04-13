@@ -14,9 +14,9 @@
 		"date_format": "%A, %B %-d"
 	},
 	"standings": {
-		"team_offday": true,
+		"team_offday": false,
 		"mlb_offday": true,
-		"always_display": true
+		"always_display": false
 	},
 	"rotation": {
 		"enabled": true,
