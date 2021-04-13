@@ -19,7 +19,7 @@
 		"always_display": false
 	},
 	"rotation": {
-		"enabled": false,
+		"enabled": true,
 		"scroll_until_finished": true,
 		"only_preferred": false,
 		"rates": {
