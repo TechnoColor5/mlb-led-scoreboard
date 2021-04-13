@@ -6,7 +6,7 @@
 	"news_ticker": {
 		"team_offday": true,
 		"always_display": false,
-		"preferred_teams": true,
+		"preferred_teams": false,
 		"traderumors": true,
 		"mlb_news": true,
 		"countdowns": true,
