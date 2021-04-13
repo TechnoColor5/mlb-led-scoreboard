@@ -16,6 +16,9 @@ SCRIPT_VERSION = "4.0.1"
 # Get supplied command line arguments
 args = args()
 
+args.led_rows=32
+args.led_cols=64
+
 # Check for led configuration arguments
 matrixOptions = led_matrix_options(args)
 
