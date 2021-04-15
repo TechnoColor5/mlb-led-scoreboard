@@ -16,7 +16,7 @@
 	"standings": {
 		"team_offday": true,
 		"mlb_offday": true,
-		"always_display": true
+		"always_display": false
 	},
 	"rotation": {
 		"enabled": true,
