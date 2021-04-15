@@ -131,6 +131,7 @@
     }
   },
   "standings": {
+    "background": {
       "r": 37,
       "g": 102,
       "b": 30
